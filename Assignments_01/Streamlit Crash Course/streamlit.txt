@@ -1,0 +1,7 @@
+KEY POINTS 
+
+-> no need for frontend coding 
+
+-> Reactive means your app updates everytime a chanegs is made 
+
+-> Easy integration with python libraries like pandas , numpy and matplotlib
